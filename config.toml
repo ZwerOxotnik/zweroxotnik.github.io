@@ -1,0 +1,51 @@
+baseURL = "https://zweroxotnik.github.io"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "ZwerOxotnik's UC"
+theme = "learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = "https://github.com/zweroxotnik/zweroxotnik.github.io/edit/master/exampleSite/content/"
+  description = "ZwerOxotnik's UC"
+  themeVariant = "red"
+  custom_css = ["css/theme-mine.css"]
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = true
+  disableLandingPageButton = true
+  disableMermaid = false
+  customMermaidURL = "https://unpkg.com/mermaid@8.9.0/dist/mermaid.min.js"
+  titleSeparator = "::"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "ZwerOxotnik's UC"
+weight = 1
+languageName = "English"
+landingPageURL = "/en"
+landingPageName = "<i class='fas fa-home'></i> Home"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/zweroxotnik/zweroxotnik.github.io"
+weight = 10
+
+[Languages.ru]
+title = "Объединённый центр ZwerOxotnik'а"
+weight = 2
+languageName = "Русский"
+landingPageURL = "/ru"
+landingPageName = "<i class='fas fa-home'></i> Accueil"
+
+[[Languages.ru.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub репозиторий"
+identifier = "ds"
+url = "https://github.com/zweroxotnik/zweroxotnik.github.io"
+weight = 10
