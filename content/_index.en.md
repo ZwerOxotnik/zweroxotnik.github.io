@@ -1,3 +1,7 @@
-# test1
+---
+title: MAIN
+---
 
-test
+{{< svgmap >}}
+
+# WIP

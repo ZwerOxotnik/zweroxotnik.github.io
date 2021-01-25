@@ -1,6 +1,6 @@
 baseURL = "https://zweroxotnik.github.io"
 languageCode = "en-US"
-defaultContentLanguage = "en"
+defaultContentLanguage = "ru"
 
 title = "ZwerOxotnik's UC"
 theme = "learn"
@@ -8,7 +8,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/zweroxotnik/zweroxotnik.github.io/edit/master/exampleSite/content/"
+  editURL = "https://github.com/zweroxotnik/zweroxotnik.github.io/edit/main/content/"
   description = "ZwerOxotnik's UC"
   themeVariant = "red"
   custom_css = ["css/theme-mine.css"]
@@ -17,8 +17,14 @@ defaultContentLanguageInSubdir= true
   disableNextPrev = true
   disableLandingPageButton = true
   disableMermaid = false
+  customlazyloadURL = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.3.0/dist/lazyload.min.js"
   customMermaidURL = "https://unpkg.com/mermaid@8.9.0/dist/mermaid.min.js"
   titleSeparator = "::"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
