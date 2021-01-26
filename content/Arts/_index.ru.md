@@ -16,7 +16,7 @@ weight: 3
 в цифровой обработке)
 
 
-{{< webm height="400" src="https://cdn.discordapp.com/attachments/618010601318383626/803229334356885564/2020-5-28-1-26-47.webm" >}}
+{{< video height="400" src="https://cdn.discordapp.com/attachments/618010601318383626/803229334356885564/2020-5-28-1-26-47.webm" >}}
 
 У меня много очень аккаунтов, предположительно, самым<br>
 активном является [FurAffinity](https://www.furaffinity.net/user/zweroxotnik/).

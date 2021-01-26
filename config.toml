@@ -19,6 +19,7 @@ defaultContentLanguageInSubdir= true
   disableMermaid = true
   customlazyloadURL = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.3.0/dist/lazyload.min.js"
   customMermaidURL = "https://unpkg.com/mermaid@8.9.0/dist/mermaid.min.js"
+  customJQuerydURL = "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"
   titleSeparator = "::"
   gaID = "G-730ZQG92D6"
 
