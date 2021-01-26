@@ -10,17 +10,18 @@ defaultContentLanguageInSubdir= true
 [params]
   editURL = "https://github.com/zweroxotnik/zweroxotnik.github.io/edit/main/content/"
   description = "ZwerOxotnik's UC"
-  themeVariant = "red"
+  themeVariant = ""
   custom_css = ["css/theme-mine.css"]
   showVisitedLinks = false
   disableBreadcrumb = false
   disableNextPrev = true
   disableLandingPageButton = true
-  disableMermaid = false
+  disableMermaid = true
   customlazyloadURL = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.3.0/dist/lazyload.min.js"
   customMermaidURL = "https://unpkg.com/mermaid@8.9.0/dist/mermaid.min.js"
   titleSeparator = "::"
-  
+  gaID = "G-730ZQG92D6"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

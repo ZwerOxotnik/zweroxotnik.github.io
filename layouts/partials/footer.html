@@ -3,7 +3,7 @@
         {{ end }}
         </div>
         {{ partial "custom-comments.html" . }}
-      </div>
+    </div>
 
     <div id="navigation">
         <!-- Next prev page -->
@@ -40,8 +40,8 @@
         {{ end }}
 
 
-	 {{$showPrevNext := (and (not .Params.disableNextPrev) (not .Site.Params.disableNextPrev))}}
-	 {{if $showPrevNext}}
+	{{$showPrevNext := (and (not .Params.disableNextPrev) (not .Site.Params.disableNextPrev))}}
+	{{if $showPrevNext}}
 		{{with ($.Scratch.Get "prevPage")}}
 			<a class="nav nav-prev" href="{{.RelPermalink}}" title="{{.Title}}"> <i class="fa fa-chevron-left"></i></a>
 		{{end}}
@@ -54,7 +54,7 @@
     </section>
 
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
-      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
     <script src="{{"js/clipboard.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
     <script src="{{"js/perfect-scrollbar.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
@@ -67,9 +67,9 @@
     <script src="{{"js/learn.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
     <script src="{{"js/hugo-learn.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
     {{ if (or (and (ne .Params.disableMermaid nil) (not .Params.disableMermaid)) (not .Site.Params.disableMermaid)) }}
-        {{ if isset .Params "customMermaidURL" }}
+        {{ if ne .Params.customMermaidURL nil }}
             <script src="{{ .Params.customMermaidURL }}"></script>
-        {{ else if isset .Site.Params "customMermaidURL" }}
+        {{ else if ne .Site.Params.customMermaidURL nil }}
             <script src="{{ .Site.Params.customMermaidURL }}"></script>
         {{ else }}
             <script src="{{"mermaid/mermaid.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
@@ -79,9 +79,9 @@
         </script>
     {{ end }}
 	{{ if (or (and (ne .Params.disablelazyload nil) (not .Params.disablelazyload)) (not .Site.Params.disablelazyload)) }}
-        {{ if isset .Params "customlazyloadURL" }}
+        {{ if ne .Params.customlazyloadURL nil }}
             <script async src="{{ .Params.customlazyloadURL }}"></script>
-        {{ else if isset .Site.Params "customlazyloadURL" }}
+        {{ else if ne .Site.Params.customlazyloadURL nil }}
             <script async src="{{ .Site.Params.customlazyloadURL }}"></script>
         {{ else }}
             <script async src="{{"js/lazyload.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
@@ -94,5 +94,5 @@
         </script>
     {{ end }}
     {{ partial "custom-footer.html" . }}
-  </body>
+</body>
 </html>
