@@ -1,6 +1,6 @@
 baseURL = "https://zweroxotnik.github.io"
 languageCode = "en-US"
-defaultContentLanguage = "ru"
+defaultContentLanguage = "en"
 
 title = "ZwerOxotnik's UC"
 theme = "learn"

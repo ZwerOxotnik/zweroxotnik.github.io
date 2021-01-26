@@ -1,6 +1,6 @@
 ---
 title: Правила
-description : "Правила"
+description : "Правила сервера Discord'а"
 weight: 1
 ---
 
