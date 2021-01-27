@@ -21,13 +21,6 @@ weight: 3
 У меня много очень аккаунтов, предположительно, самым<br>
 активном является [FurAffinity](https://www.furaffinity.net/user/zweroxotnik/).
 
-
-![image](https://d.facdn.net/art/zweroxotnik/1600802268/1600802263.zweroxotnik_zweroxotnik_protogen_affh_v1.jpg?height=300)
-![image](https://d.facdn.net/art/zweroxotnik/1605526224/1605526222.zweroxotnik_zweroxotnik_light-dance_v1_1p.jpg?height=300)
-![image](https://d.facdn.net/art/zweroxotnik/1605633330/1605633329.zweroxotnik_zweroxotnik_a-breeze_p.jpg?height=300)
-![image](https://d.facdn.net/art/zweroxotnik/1575204511/1575204503.zweroxotnik_windless-n-sunny-moment-by-zweroxotnik.jpg?height=300)
-![image](https://d.facdn.net/art/zweroxotnik/1597440148/1597440155.zweroxotnik_pinkish-thinking_zweroxotnik.jpg?height=300)
-
-(Я позже сделаю галерею в приличном виде здесь)
+{{< fur-gallery >}}
 
 {{% /center %}}

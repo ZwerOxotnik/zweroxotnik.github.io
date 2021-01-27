@@ -14,5 +14,4 @@ Just a site with a lot of information: https://zweroxotnik.github.io
 + Improve style
 + Add more links
 + Add more info
-+ Add gallery
 + etc
