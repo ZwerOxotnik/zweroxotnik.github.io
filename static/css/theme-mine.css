@@ -109,3 +109,22 @@ a:hover {
     border-color: var(--MENU-SECTION-HR-color);
 }
 
+.ps-container > .ps-scrollbar-y-rail > .ps-scrollbar-y {
+    background-color: var(--MENU-SEARCH-BOX-ICONS-color) !important;
+}
+
+.ps-container:hover > .ps-scrollbar-y-rail:hover > .ps-scrollbar-y {
+    background-color: var(--MENU-SEARCH-BOX-ICONS-color) !important;
+}
+
+.ps-container:hover>.ps-scrollbar-y-rail:hover {
+    background-color: transparent !important;
+}
+
+.ps-container:hover.ps-in-scrolling.ps-y>.ps-scrollbar-y-rail {
+    background-color: transparent !important;
+}
+
+.ps-container.ps-in-scrolling.ps-y>.ps-scrollbar-y-rail {
+    background-color: transparent !important;
+}
