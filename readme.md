@@ -7,11 +7,3 @@
 </div>
 
 Just a site with a lot of information: https://zweroxotnik.github.io
-
-## TODO
-
-+ Remove featherlight because it seems doesn't work properly with lazyload (see [layouts/shortcodes/img](layouts/shortcodes/img))
-+ Improve style
-+ Add more links
-+ Add more info
-+ etc
