@@ -7,7 +7,7 @@ weight: 1
 The server rules generally match the [Discord guidelines](https://discord.com/guidelines) by a principle: "the severity of a violation together with social behavior leads to appropriate punishment within the community"
 
 {{% notice tip %}}
-The rules are short and subjective in social conflicts. Moderators keep order without inflated rights, although auto-moderation bot is enough in many cases. Just in case, contact with: ZwerOxotnik#7117
+The rules are short and subjective in social conflicts. Moderators keep order without inflated rights, although auto-moderation bot is enough in many cases. Just in case, contact with: ZwerOxotnik
 {{% /notice %}}
 
 {{% notice info %}}
