@@ -14,7 +14,7 @@ You might argue the ban or prove there is no violation with **ZwerOxotnik#7117 o
 
 ## Is there another option for removing the penalty for a violation?
 
-There is a one, you must prepare and tell an informative lecture to our community on the ZwerOxotnik's UC server without violations. Again, first, contact with **ZwerOxotnik#7117 on Discord** and your apply will be subjectively reviewed.
+There is a one, you must prepare and tell an informative lecture to our community on the ZwerOxotnik's UC server without violations. Again, first, contact with **ZwerOxotnik on Discord** and your apply will be subjectively reviewed.
 
 ## Can I apply for a moderator?
 
