@@ -10,7 +10,7 @@ Most likely, you violated [Discord guidelines](https://discord.com/guidelines) Ð
 
 ## How I can be **unbanned**?
 
-You might argue the ban or prove there is no violation with **ZwerOxotnik#7117 on Discord**.
+You might argue the ban or prove there is no violation with **ZwerOxotnik on Discord**.
 
 ## Is there another option for removing the penalty for a violation?
 

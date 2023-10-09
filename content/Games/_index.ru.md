@@ -19,7 +19,7 @@ weight: 10
 #### И ешё, на нашем [сервере Discord'а](https://discordapp.com/invite/YyJVUCa) проводятся текстовые ролевые игры.
 
 {{% notice tip %}}
-Хотите модификацию/программу или что-то другое? Расскажи об этом мне через Discord:ZwerOxotnik#7117 или  [zweroxotnik@gmail.com](mailto:zweroxotnik@gmail.com), если хотите больше конфиденциальности, то обращайтесь через мой matrix аккаунт: https://matrix.to/#/@zweroxotnik:matrix.org.
+Хотите модификацию/программу или что-то другое? Расскажи об этом мне через Discord:ZwerOxotnik или  [zweroxotnik@gmail.com](mailto:zweroxotnik@gmail.com), если хотите больше конфиденциальности, то обращайтесь через мой matrix аккаунт: https://matrix.to/#/@zweroxotnik:matrix.org.
 {{% /notice %}}
 
 {{% /center %}}

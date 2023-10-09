@@ -10,6 +10,6 @@ description: "Добро пожаловать на сайт ZwerOxotnik'а, вс
 {{% /notice %}}
 
 {{% notice tip %}}
-За оформление данного сайта отвечает **ZwerOxotnik**, по всем вопросам обращайтесь через discord:ZwerOxotnik#7117
+За оформление данного сайта отвечает **ZwerOxotnik**, по всем вопросам обращайтесь через discord:ZwerOxotnik
 или  [zweroxotnik@gmail.com](mailto:zweroxotnik@gmail.com), сайт в процессе разработки.
 {{% /notice %}}

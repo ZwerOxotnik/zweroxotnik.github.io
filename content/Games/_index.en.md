@@ -17,7 +17,7 @@ weight: 10
 #### And also, we play text role-playing games on our [Discord server](https://discordapp.com/invite/YyJVUCa) sometimes.
 
 {{% notice tip %}}
-Do you want a modification/program or something else? Make me now on Discord:ZwerOxotnik#7117 or  [zweroxotnik@gmail.com](mailto:zweroxotnik@gmail.com), if you want more privacy, please contact me through matrix: https://matrix.to/#/@zweroxotnik:matrix.org.
+Do you want a modification/program or something else? Make me now on Discord:ZwerOxotnik or  [zweroxotnik@gmail.com](mailto:zweroxotnik@gmail.com), if you want more privacy, please contact me through matrix: https://matrix.to/#/@zweroxotnik:matrix.org.
 {{% /notice %}}
 
 {{% /center %}}
