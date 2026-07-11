@@ -1,0 +1,99 @@
+baseURL = 'https://zweroxotnik.github.io'
+title = "ZwerOxotnik's UC"
+theme = 'hugo-book'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+DefaultContentLanguage = "en"
+
+# Required for mermaid and katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[markup.highlight]
+  style = 'base16-snazzy'
+
+[outputFormats]
+[outputFormats.txt]
+  mediaType = 'text/plain'
+  baseName = 'source'
+  isPlainText = true
+
+[outputs]
+  home = ['html', 'txt', 'rss']
+  page = ['html', 'txt']
+  section = ['html', 'txt']
+  
+[languages]
+[languages.en]
+  label = 'English'
+  contentDir = 'content.en'
+  weight = 1
+
+[languages.ru]
+  label = 'Русский'
+  contentDir = 'content.ru'
+  locale = "ru-Latn"
+  weight = 2
+
+[params]
+  # Color theme: 'light', 'dark' or 'auto'
+  # Auto switches based on OS/browser preference
+  BookTheme = 'auto'
+
+  # Show table of contents on right side of pages
+  # Can also be set per-page via frontmatter
+  BookToC = false
+
+  # Path to favicon file relative to 'static' directory
+  BookFavicon = 'favicon-16x16.png'
+
+  # Path to logo image file relative to 'static' directory
+  BookLogo = 'favicon-32x32.png'
+
+  # Root section to render as sidebar menu
+  # Default: 'docs'
+  BookSection = '/'
+
+  # Repository URL, used for edit and commit links
+  # BookRepo = 'https://github.com/user/repo'
+
+  # Template for "Last Modified" commit link in page footer
+  # Requires enableGitInfo = true in site config
+  # Available context: .Site, .Page, .GitInfo
+  BookLastChangeLink = '{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}'
+
+  # Template for "Edit this page" link in page footer
+  # Available context: .Site, .Page, .Path
+  BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}'
+
+  # Date format used in git info and blog posts
+  BookDateFormat = 'January 2, 2006'
+
+  # Enable full-text search with fuse.js
+  BookSearch = false
+
+  # Enable comments template on pages
+  # By default uses Disqus; override partials/docs/comments.html for others
+  BookComments = true
+
+  # /!\ Experimental, may change or be removed.
+  # Enable portable markdown links to resolve relative .md links to Hugo URLs.
+  # Lets you write [text](./other.md) instead of Hugo's relref shortcode.
+  #   false     - disabled, relative .md links not resolved
+  #   'warning' - enabled, prints a build warning if linked page doesn't exist
+  #   'error'   - enabled, fails the build if linked page doesn't exist
+  BookPortableLinks = false
+
+  # /!\ Experimental, may change or be removed.
+  # Register a service worker for offline access to visited pages.
+  #   false      - disabled (default)
+  #   true       - caches pages as you visit them
+  #   'precache' - pre-populates cache with all site pages on first load
+  BookServiceWorker = false
+
+  # Only show languages that have translations for current page
+  BookTranslatedOnly = false
