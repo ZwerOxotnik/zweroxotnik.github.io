@@ -1,0 +1,10 @@
+ZwerOxotnik's UC
+
+- About me: https://zweroxotnik.github.io/
+- Socials: https://zweroxotnik.github.io/socials/
+- Payment: https://zweroxotnik.github.io/payment/
+- Message to devs: https://zweroxotnik.github.io/development/message/
+- Repositories: https://zweroxotnik.github.io/development/repositories/
+- Factorio: https://zweroxotnik.github.io/development/factorio/
+
+

@@ -1,0 +1,17 @@
+ZwerOxotnik's UC
+
+- Обо мне: https://zweroxotnik.github.io/ru/
+- Социальные сети: https://zweroxotnik.github.io/ru/socials/
+- Оплата: https://zweroxotnik.github.io/ru/payment/
+- Сообщение разработчикам: https://zweroxotnik.github.io/ru/development/message/
+- Репозитории: https://zweroxotnik.github.io/ru/development/repositories/
+- Factorio: https://zweroxotnik.github.io/ru/development/factorio/
+
+
+# Репозитории
+
+* https://gitgud.io/users/ZwerOxotnik/projects (id: 108998)
+* https://codeberg.org/ZwerOxotnik?tab=repositories
+* https://github.com/ZwerOxotnik?tab=repositories
+* https://gitlab.com/users/ZwerOxotnik/projects (id: 1608110)
+

@@ -1,0 +1,22 @@
+ZwerOxotnik's UC
+
+- Обо мне: https://zweroxotnik.github.io/ru/
+- Социальные сети: https://zweroxotnik.github.io/ru/socials/
+- Оплата: https://zweroxotnik.github.io/ru/payment/
+- Сообщение разработчикам: https://zweroxotnik.github.io/ru/development/message/
+- Репозитории: https://zweroxotnik.github.io/ru/development/repositories/
+- Factorio: https://zweroxotnik.github.io/ru/development/factorio/
+
+
+# Factorio
+
+Не ожидайте больших изменений.
+
+Вы можете просмотреть все мои репозитории здесь: https://mods.factorio.com/user/ZwerOxotnik \
+Также, у меня есть доступ к другим к модам. Вы можете найти эти моды, воспользовавшись поисковиком на сайте по моему имени.
+
+На данный момент, все Factorio репозитории находятся на GitHub: https://github.com/ZwerOxotnik?tab=repositories&q=factorio&type&language&sort \
+Однако, как только сервисы локализаций изменятся, я рассмотрю миграцию в другие места.
+
+Мой форумный Factorio аккаунт: https://forums.factorio.com/memberlist.php?mode=viewprofile&u=50782 \
+Я редко проверяю форум.

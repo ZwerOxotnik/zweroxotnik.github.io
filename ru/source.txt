@@ -1,0 +1,24 @@
+ZwerOxotnik's UC
+
+- Обо мне: https://zweroxotnik.github.io/ru/
+- Социальные сети: https://zweroxotnik.github.io/ru/socials/
+- Оплата: https://zweroxotnik.github.io/ru/payment/
+- Сообщение разработчикам: https://zweroxotnik.github.io/ru/development/message/
+- Репозитории: https://zweroxotnik.github.io/ru/development/repositories/
+- Factorio: https://zweroxotnik.github.io/ru/development/factorio/
+
+
+# Обо мне
+
+Вы можете звать меня как ZwerOxotnik, или Zweroxotni, или Zwe или иначе.
+
+Я разрабатываю библиотеки на различных языках программирования, сайты редко, моды для игры и игры с love2d также (какие-либо игры не опубликованы все ещё).
+
+В некоторых периодах я рисую, обычно традиционными способами, но я публикую цифровом варианте.
+
+Мой Английский не такой уж и замечательный.\
+Я знаю русский.\
+Я едва могу говорить на Испанском.\
+Я едва понимаю даже одно слово на Корейском.\
+У меня есть опыт с toki pona.
+
